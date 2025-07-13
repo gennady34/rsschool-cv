@@ -16,4 +16,6 @@ console.log('Hello, World!');
 Not avaible yet.  
 ## 7.Education  
 AMST  
-## 8.Languages
+## 8.Languages  
+    * Russian - Native  
+    * English - A1
